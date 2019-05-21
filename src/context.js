@@ -112,8 +112,6 @@ class ProductProvider extends Component {
             }
             )
         }
-
-        
     }
     removeItem = (id) => {
         let tempProducts = [...this.state.products];
