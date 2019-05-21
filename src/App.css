@@ -10,6 +10,9 @@ body{
     background-color: var(--mainWhite)!important;
     color:var(--mainDark)!important;
 }
+#root{
+    overflow-x: hidden;
+}
 .text-title{
     font-family: "Permanent Marker", cursive;
     letter-spacing: 0.3rem;
